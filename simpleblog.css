@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-weight: lighter;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    color: #3498db;
+    font-size: 13px;
+
+}
+.zzz{
+    margin-top: 0px;
+    padding: 10px;
+    margin-left: 350px;
+    border: 15px solid  #bdc3c7 ;
+    width: 600px;
+    height: 610px;
+}
+.parag2{
+    margin-left: 10px;
+}
+.Topic1{
+    margin-left: 10px;
+    font-style: Black 900;
+    font-size: 15px;
+
+}
+.parag1{
+    font-style: Black 900 italic;
+    padding: 5px;
+    border-left:5px solid  #bdc3c7 ;
+    margin-left: 10px;
+}
